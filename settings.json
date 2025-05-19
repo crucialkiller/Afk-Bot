@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Planet0001.aternos.me",
+    "port": 36983,
     "version": "1.19.3"
   },
 
